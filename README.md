@@ -1,2 +1,2 @@
-# AutomacaoComercial-C-Sharp
+# Repositorios Uteis de Automação Comercial para C#
 Dicas de Repositórios para C# 
