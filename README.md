@@ -1,4 +1,5 @@
- [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://wa.me/5514981697677?text=Ola!)](https://wa.me/5564981081602?text=Ola te achei no git!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://wa.me/5564981081602?text=Ola!)](https://wa.me/5564981081602?text=Ola!)
+
 
 # Olá meu nome é Roberto Alves Pereira
 
