@@ -10,16 +10,19 @@
 ## Repositorios Uteis de Automação Comercial para C#
 ## Dicas de Repositórios para C# 
 
-## Repositórios que eu (Roberto) indico
+## Repositórios que eu indico para automação comercial
 
 
-###### Emissão de NF-e / NFC-e / CT-e / MDF-e - https://github.com/ZeusAutomacao/DFe.NET
-###### Cálculos tributários - https://github.com/AutomacaoNet/MotorTributarioNet
-###### Funcões auxiliares para certificado digital - https://github.com/AutomacaoNet/CertificadoExtNet
-###### Tef - https://github.com/SistemaFusion/Tef
-###### Sat Fiscal https://github.com/ACBrNet/ACBr.Net.Sat
-###### NFS-e https://github.com/ACBrNet/ACBr.Net.NFSe
-###### EscPos Impressão SAT e NFC-e 80mm / 58mm https://github.com/marcosgerene/Gerene.DFe.EscPos
-###### Integração com Balanças https://github.com/marcosgerene/Gerene.Balanca
-###### GNRE https://github.com/marcosgerene/Gerene.Gnre
-###### SpedFiscal https://github.com/osamueloliveira/fiscalbr.net
+
+<ul> 
+ <li><a href="https://github.com/ZeusAutomacao/DFe.NET" target="_blank" >Emissão de NF-e / NFC-e / CT-e / MDF-e</a></li>
+ <li><a href="https://github.com/AutomacaoNet/MotorTributarioNet" target="_blank" >Cálculos tributários</a></li>
+ <li><a href="https://github.com/AutomacaoNet/CertificadoExtNet" target="_blank" >Funcões auxiliares para certificado digital</a></li>
+ <li><a href="https://github.com/SistemaFusion/Tef" target="_blank" >Tef</a></li>
+ <li><a href="https://github.com/ACBrNet/ACBr.Net.Sat" target="_blank" >Sat Fiscal</a></li> 
+  <li><a href="https://github.com/ACBrNet/ACBr.Net.NFSe" target="_blank" >NFS-e</a></li> 
+  <li><a href="https://github.com/marcosgerene/Gerene.DFe.EscPos" target="_blank" >EscPos Impressão SAT e NFC-e 80mm / 58mm</a></li> 
+  <li><a href="https://github.com/marcosgerene/Gerene.Balanca" target="_blank" >Integração com Balanças</a></li> 
+  <li><a href="https://github.com/marcosgerene/Gerene.Gnre" target="_blank" >GNRe</a></li> 
+  <li><a href="https://github.com/osamueloliveira/fiscalbr.net" target="_blank" >Sped Fiscal</a></li> 
+</ul>
