@@ -1,5 +1,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://wa.me/5564981081602?text=Ola!)](https://wa.me/5564981081602?text=Ola!)
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:robertoalvespereira18@gmail.com)](mailto:robertoalvespereira18@gmail.com) 
+
 
 # Olá meu nome é Roberto Alves Pereira
 
