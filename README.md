@@ -1,4 +1,7 @@
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://wa.me/5564981081602?text=Ola!)](https://wa.me/5564981081602?text=Ola!) [![Gmail Badge](https://img.shields.io/badge/-robertoalvespereira18@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:robertoalvespereira18@gmail.com)](mailto:robertoalvespereira18@gmail.com) 
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://wa.me/5564981081602?text=Ola!)](https://wa.me/5564981081602?text=Ola!) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/robertolves/)](https://www.instagram.com/robertolves/)
+
+[![Gmail Badge](https://img.shields.io/badge/-robertoalvespereira18@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:robertoalvespereira18@gmail.com)](mailto:robertoalvespereira18@gmail.com) 
 
 
 # Olá meu nome é Roberto Alves Pereira
