@@ -1,3 +1,4 @@
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robertoalves18/)](https://www.linkedin.com/in/robertoalves18/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://wa.me/5564981081602?text=Ola!)](https://wa.me/5564981081602?text=Ola!) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/robertolves/)](https://www.instagram.com/robertolves/)
 
