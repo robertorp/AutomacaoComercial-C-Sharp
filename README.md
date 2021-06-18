@@ -5,12 +5,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-robertoalvespereira18@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:robertoalvespereira18@gmail.com)](mailto:robertoalvespereira18@gmail.com) 
 
 
-# Olá meu nome é Roberto Alves Pereira
+<h1 align="center">Olá 👋, sou Roberto Alves Pereira</h1>
 
-<p>Desenvolvedor
+- :computer: Sou especialista na plataforma .NET, e :blue_heart: trabalhar com C#.
 
-<p>Repositórios que eu indico para automação comercial
-
+### Projetos que eu indico para automação comercial
 <ul> 
  <li><a href="https://github.com/ZeusAutomacao/DFe.NET" target="_blank" >Emissão de NF-e / NFC-e / CT-e / MDF-e</a></li>
  <li><a href="https://github.com/AutomacaoNet/MotorTributarioNet" target="_blank" >Cálculos tributários</a></li>
@@ -23,3 +22,26 @@
   <li><a href="https://github.com/marcosgerene/Gerene.Gnre" target="_blank" >GNRe</a></li> 
   <li><a href="https://github.com/osamueloliveira/fiscalbr.net" target="_blank" >Sped Fiscal</a></li> 
 </ul>
+
+
+### Linguagens e Ferramentas
+<p>
+  <img alt="Csharp" src="https://img.shields.io/badge/-C%23-7c209C?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img alt="dotnet" src="https://img.shields.io/badge/-.NET-702D91?style=flat-square&logo=.net&logoColor=white" />
+  <img alt="Amazon Web Services" src="https://img.shields.io/badge/-AWS-e9b040?style=flat-square&logo=amazon%20aws&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Postgres" src="https://img.shields.io/badge/-Postgres-338791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-e93940?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0989D6?style=flat-square&logo=microsoft%20azure&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-Code-1073C9?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+  <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-47bb40?style=flat-square&logo=swagger&logoColor=white" />
+</p>
+
+
+### Meu GitHub
+<img src="https://komarev.com/ghpvc/?username=robertorp&label=Visualizações+de+perfil&style=flat-square&color=grey" alt="robertorp" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertorp&layout=compact" alt="robertorp" />
+<img src="https://github-readme-stats.vercel.app/api?username=robertorp&show_icons=true" alt="robertorp" />
+</p>
