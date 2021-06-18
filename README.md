@@ -8,8 +8,9 @@
 <h1 align="center">Olá 👋, sou Roberto Alves Pereira</h1>
 <h2 align="center">Analista Desenvolvedor na Agil4 Tecnologia, Jandaia/GO</h2>
 
-- :computer: Sou especialista na plataforma .NET, e :blue_heart: trabalhar com C#.
-- 🌱 Atualmente estou estudando React, Arquitetura, DDD e CQRS
+- 💜 Desenvolvedor .Net
+- 👔 Experiência em Automação Comercial
+- 💡  Em constante evolução
 
 ### Projetos que eu indico para automação comercial
 <ul> 
