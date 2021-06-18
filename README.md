@@ -8,6 +8,8 @@
 <h1 align="center">Olá 👋, sou Roberto Alves Pereira</h1>
 
 - :computer: Sou especialista na plataforma .NET, e :blue_heart: trabalhar com C#.
+- 😄 Sou apaixonado por .NET, Microsoft, AWS, Código Limpo e Arquitetura de Softwares
+- 🌱 Atualmente estou estudando React, Arquitetura, DDD e CQRS
 
 ### Projetos que eu indico para automação comercial
 <ul> 
