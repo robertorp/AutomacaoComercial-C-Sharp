@@ -26,6 +26,10 @@
   <li><a href="https://github.com/osamueloliveira/fiscalbr.net" target="_blank" >Sped Fiscal</a></li> 
 </ul>
 
+### Projetos que fiz para estudar
+ <ul>
+  <li><a href="https://github.com/robertorp/NerdStoreEnterprise-Estudo-Desenvolvedor-IO" target="_blank" >ecommerce desenvolvido com arquitetura distribuída</a></li>
+ </ul>
 
 ### Linguagens e Ferramentas
 <p>
