@@ -28,7 +28,7 @@
 
 ### Projetos que fiz para estudar
  <ul>
-  <li><a href="https://github.com/robertorp/NerdStoreEnterprise-Estudo-Desenvolvedor-IO" target="_blank" >ecommerce desenvolvido com arquitetura distribuída</a></li>
+  <li><a href="https://github.com/robertorp/NerdStoreEnterprise-Estudo-Desenvolvedor-IO" target="_blank" >e-Commerce Arquiteura Distribuída</a></li>
  </ul>
 
 ### Linguagens e Ferramentas
