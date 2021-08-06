@@ -45,6 +45,7 @@
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-0989D6?style=flat-square&logo=microsoft%20azure&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-Code-1073C9?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-47bb40?style=flat-square&logo=swagger&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-47bb40?style=flat-square&logo=jenkins&logoColor=white" />
 </p>
 
 
