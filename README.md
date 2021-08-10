@@ -12,7 +12,7 @@
 - 👔 Experiência em Automação Comercial
 - 💡  Em constante evolução
 
-### Projetos que eu indico para automação comercial
+### Projetos que eu indico para automação comercial / Alguns faço parte da equipe 
 <ul> 
  <li><a href="https://github.com/ZeusAutomacao/DFe.NET" target="_blank" >Emissão de NF-e / NFC-e / CT-e / MDF-e</a></li>
  <li><a href="https://github.com/AutomacaoNet/MotorTributarioNet" target="_blank" >Cálculos tributários</a></li>
