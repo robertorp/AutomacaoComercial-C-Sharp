@@ -31,7 +31,7 @@
   <li><a href="https://github.com/robertorp/NerdStoreEnterprise-Estudo-Desenvolvedor-IO" target="_blank" >e-Commerce Arquitetura Distribuída</a></li>
   <li><a href="https://github.com/robertorp/AppEstoqueFacil" target="_blank" >Desktop Arquitetura Distribuída</a></li>
   <li><a href="https://github.com/robertorp/github-explorer-react-js" target="_blank">Github Explorer React</a></li>
-  <li><a href="https://github.com/robertorp/cf-pessoal" target="_blank">Controle Financeiro Pessoa React</a></li>
+  <li><a href="https://github.com/robertorp/cf-pessoal" target="_blank">Controle Financeiro Pessoal React</a></li>
  </ul>
 
 ### Linguagens e Ferramentas
