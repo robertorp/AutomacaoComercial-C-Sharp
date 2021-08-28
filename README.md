@@ -12,6 +12,11 @@
 - 👔 Experiência em Automação Comercial
 - 💡  Em constante evolução
 
+### MEU PRIMEIRO TRABALHO DE FACULDADE! PRIMEIRO PERIODO!
+<ul>
+ <li><a href="https://github.com/robertorp/sistema-locadora" target="_blank" >LOCADORA</a></li> 
+</ul>
+
 ### Projetos que eu indico para automação comercial / Alguns faço parte da equipe 
 <ul> 
  <li><a href="https://github.com/ZeusAutomacao/DFe.NET" target="_blank" >Emissão de NF-e / NFC-e / CT-e / MDF-e</a></li>
