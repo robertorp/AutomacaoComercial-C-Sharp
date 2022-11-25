@@ -5,6 +5,12 @@
 - 👔 Experiência em Automação Comercial
 - 💡  Em constante evolução
 
+### FORMAÇÃO
+<ul>
+ <li>2018 - Faculdade São Luiz Montes Belos - MBA em Gestão de Projetos</li>
+ <li>2015 - Uni-Anhanguera - Analise é Desenvolvimento de Sistemas</li>
+</ul>
+
 ### MEU PRIMEIRO TRABALHO DE FACULDADE! PRIMEIRO PERIODO!
 <ul>
  <li><a href="https://github.com/robertorp/sistema-locadora" target="_blank" >LOCADORA</a></li> 
@@ -30,6 +36,30 @@
   <li><a href="https://github.com/robertorp/github-explorer-react-js" target="_blank">Github Explorer React</a></li>
   <li><a href="https://github.com/robertorp/cf-pessoal" target="_blank">Controle Financeiro Pessoal React</a></li>
  </ul>
+ 
+### Projetos Trabalhados
+<ul>
+ <li> 2021 - Participação na Criação de um Sistema de Automação Comercial WEB, feito em C# até os dias atuais <br>https://sistemafusion.com.br/</li> 
+ <li> 2015 - Participação na Criação de um Sistema de Automação Comercial Desktop WPF, feito em C# até os dias atuais <br>https://sistemafusion.com.br/</li> 
+ <li> 2014 - Participação na Criação de um Aplicativo para Android/IOS para Consulta Escolar de Alunos, feito em Titanum.js</li> 
+ <li> 2014 - Participação na Criação de um Aplicativo para Android/IOS para Sistema de Cotação, feito em Titanum.js</li> 
+ <li> 2014 - Participação na Criação de uma Api para Sistema de Cotação, feito em PHP</li> 
+ <li> 2014 - Participação na Criação de um Aplicativo Android Força de Vendas, feito em Java<br>
+ Aplicativo em Produção até nos dias de hoje, https://play.google.com/store/apps/details?id=br.com.forcavenda
+ </li> 
+ <li> 2014 - Participação na Criação de uma Api para Força de Vendas, feito em PHP</li> 
+</ul>
+
+### Conheçimentos Tecnicos
+<ul>
+ <li>Linguagem de Programação C#</li>
+ <li>.Net FullFramework / Core</li>
+ <li>Banco de Dados SqlServer / PostgreSQL</li>
+ <li>NHibernate Framework para C# / Entity Framework Core</li>
+ <li>MassTransit Framework para Messageria</li>
+ <li>Conheçimentos em MicroServices</li>
+ <li>Conheçimentos em RabbitMQ</li>
+</ul>
 
 ### Linguagens e Ferramentas
 <p>
@@ -40,8 +70,6 @@
   <img alt="Postgres" src="https://img.shields.io/badge/-Postgres-338791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-e93940?style=flat-square&logo=redis&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0989D6?style=flat-square&logo=microsoft%20azure&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/-Code-1073C9?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-47bb40?style=flat-square&logo=swagger&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-47bb40?style=flat-square&logo=jenkins&logoColor=white" />
 </p>
