@@ -4,6 +4,7 @@
 - 💜 Desenvolvedor .Net
 - 👔 Experiência em Automação Comercial
 - 💡  Em constante evolução
+- 👔 São mais de 8 anos de experiência
 
 ### FORMAÇÃO
 <ul>
