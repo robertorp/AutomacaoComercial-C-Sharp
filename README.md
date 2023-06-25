@@ -40,8 +40,11 @@
  
 ### Projetos Trabalhados
 <ul>
- <li> 2021 - Participação na Criação de um Sistema de Automação Comercial WEB, feito em C# até os dias atuais <br>https://sistemafusion.com.br/</li> 
- <li> 2015 - Participação na Criação de um Sistema de Automação Comercial Desktop WPF, feito em C# até os dias atuais <br>https://sistemafusion.com.br/</li> 
+ <li> 2022 - Participação na Criação de um Sistema de Automação Comercial WEB, feito em C#/ReactJS <br>https://saleflux.com.br/</li> 
+ <li> 2022 - Participação na Criação de um Aplicativo IOS/Android (ReactNative), feito em C#/ReactNative <br>https://medkobe.com/</li> 
+ <li> 2022 - Participação na Criação de um Sistema de Conversão de Declarações de Importação para Notas Fiscais de Entrada (WEB), feito em C#/ReactJS <br>https://app.difast.com.br/</li> 
+ <li> 2021 - Participação na Criação de um Sistema de Automação Comercial WEB, feito em C# <br>https://sistemafusion.com.br/</li> 
+ <li> 2015 - Participação na Criação de um Sistema de Automação Comercial Desktop WPF, feito em C# <br>https://sistemafusion.com.br/</li> 
  <li> 2014 - Participação na Criação de um Aplicativo para Android/IOS para Consulta Escolar de Alunos, feito em Titanum.js</li> 
  <li> 2014 - Participação na Criação de um Aplicativo para Android/IOS para Sistema de Cotação, feito em Titanum.js</li> 
  <li> 2014 - Participação na Criação de uma Api para Sistema de Cotação, feito em PHP</li> 
