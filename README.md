@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Roberto Alves Pereira</h1>
-<h2 align="center">Analista Desenvolvedor na Agil4 Tecnologia, Jandaia/GO</h2>
+<h2 align="center">Analista Desenvolvedor Jandaia/GO</h2>
 
 - 💜 Desenvolvedor .Net
 - 👔 Experiência em Automação Comercial
